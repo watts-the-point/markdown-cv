@@ -3,7 +3,7 @@ layout: cv
 title: Alex Watts's CV
 ---
 # Alex Watts
-Biotatistician, Data Analyst, Social Scientist
+Biostatistician, Data Analyst, Social Scientist
 
 <div id="webaddress">
 <a href="alex.watts@pennmedicine.upenn.edu">alex.watts@pennmedicine.upenn.edu</a>
@@ -63,22 +63,16 @@ University of Pennsylvania
 University of Pittsburgh
 
 - Biostatistician
-    - Provided statistical support to medical researchers
-    - Produced analyses and visualizations to answer questions related to health services and equity in urology
 
 `2022`
 University of Pittsburgh
 
 - Research Assistant
-    - Created a novel implementation of a computational spatial algorithm
-    - Presented simulated algorithm evaluation results at ESA-CSEE Joint Meeting 2022
 
 `2021-2022`
 University of Pittsburgh
 
 - Graduate Data Analyst
-    - Managed and analyzed a large geospatial dataset of residences in Southwest PA
-    - Produced dataset of water sources for over 30,000 homes in Southwest PA
 
 
 <!-- ### Footer
