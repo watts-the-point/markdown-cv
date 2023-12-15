@@ -12,7 +12,7 @@ Biotatistician, Data Analyst, Social Scientist
 
 ## Currently
 
-Standing on the shoulders of giants
+Looking to gain a better understanding of health in a social context and how we as a society create the conditions to harm ourselves
 
 ### Specialized in
 
