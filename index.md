@@ -59,7 +59,7 @@ University of Pennsylvania
 - Statistical Analyst
     - Meet regularly with collaborators to present findings and discuss next steps
     - Collect, manage, and analyze data to answer questions of medical interest related to social stigma in cancer patients
-    - Gather state cancer data from SEER, CDC, and other sources to provide up-to-date reporting on incidence rates and other vital statistics
+    - Gather state cancer data from SEER, CDC, and other sources to provide up-to-date reporting on relevant cancer statistics
     - Provide support for ancillary and ad hoc analyses of ongoing RURAL study
 
 `1600`
