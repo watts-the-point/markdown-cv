@@ -1,13 +1,12 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Alex Watts's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Alex Watts
+Biotatistician, Data Analyst, Social Scientist
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="acwatts1995@gmail.com">acwatts1995@gmail.com</a>
 </div>
 
 
@@ -17,28 +16,26 @@ Standing on the shoulders of giants
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Data management and visualization in R, Observational data, Geospatial data, Multilevel modeling, ACS Data, SEER Data
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Social determinants of health, built environment, observational studies, causal inference, behavioral health
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2014-2018`
+__The University of Alabama, Tuscaloosa, AL__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- BS, Economics and Mathematics
 
-- Sizar
+`2021-2023`
+__University of Pittsburgh, Pittsburgh, PA__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- MS, Biostatistics
 
-- Fellow
 
 
 
@@ -52,29 +49,18 @@ __Trinity College, Cambridge__
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`August 2023-Present`
+University of Pennsylvania
 
-- Warden
-- Minted coins
+- Statistical Analyst
+    - Meet regularly with collaborators to present findings and discuss next steps
+    - Collect, manage, and analyze data to answer questions of medical interest related to social stigma in cancer patients
+    - Gather state cancer data from SEER, CDC, and other sources to provide up-to-date reporting on incidence rates and other vital statistics
+    - Provide support for ancillary and ad hoc analyses of ongoing RURAL study
 
 `1600`
 __Lucasian professor of Mathematics__, Cambridge University
