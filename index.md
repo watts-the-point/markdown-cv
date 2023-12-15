@@ -53,7 +53,7 @@ __University of Pittsburgh, Pittsburgh, PA__
 
 ## Occupation
 
-`August 2023-Present`
+`August 2023-\nPresent`
 University of Pennsylvania
 
 - Statistical Analyst
@@ -62,9 +62,27 @@ University of Pennsylvania
     - Gather state cancer data from SEER, CDC, and other sources to provide up-to-date reporting on relevant cancer statistics
     - Provide support for ancillary and ad hoc analyses of ongoing RURAL study
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
+`September 2022-April 2023`
+University of Pittsburgh
+
+- Biostatistician
+    - Provided statistical support to medical researchers
+    - Produced analyses and visualizations to answer questions related to health services and equity in urology
+
+`May 2022-August 2022`
+University of Pittsburgh
+
+- Research Assistant
+    - Created a novel implementation of a computational spatial algorithm
+    - Presented simulated algorithm evaluation results at ESA-CSEE Joint Meeting 2022
+
+`November 2021-April 2022`
+University of Pittsburgh
+
+- Graduate Data Analyst
+    - Managed and analyzed a large geospatial dataset of residences in Southwest PA
+    - Produced dataset of water sources for over 30,000 homes in Southwest PA
 
 
 <!-- ### Footer
