@@ -6,13 +6,13 @@ title: Alex Watts's CV
 Biotatistician, Data Analyst, Social Scientist
 
 <div id="webaddress">
-<a href="acwatts1995@gmail.com">acwatts1995@gmail.com</a>
+<a href="alex.watts@pennmedicine.upenn.edu">alex.watts@pennmedicine.upenn.edu</a>
 </div>
 
 
 ## Currently
 
-Looking to gain a better understanding of health in a social context and how we as a society create the conditions to harm ourselves
+Looking to gain a better understanding of health in a social context and how we as a society create the conditions that lead to disease.
 
 ### Specialized in
 
@@ -35,6 +35,8 @@ __The University of Alabama, Tuscaloosa, AL__
 __University of Pittsburgh, Pittsburgh, PA__
 
 - MS, Biostatistics
+    - Watts, A. C. (2023). *Assessing the Effects of Weather on Bike Share Usage in Philadelphia*. University of Pittsburgh.
+
 
 
 
@@ -47,13 +49,15 @@ __University of Pittsburgh, Pittsburgh, PA__
 
 ## Publications
 
+- Myrga, J., Erpenbeck, S., __Watts, A.__, Stencel, M., Patnaik, S., Staniorski, C., Yabes, J., Yu, M., Jacobs, B., & Davies, B. (2023). *Patient Reported Outcomes after Transperineal vs. Transrectal Biopsy with Local Anesthesia: Advances in Pain Control and Areas for Improvement*.
+
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 
 
 ## Occupation
 
-`August 2023-\nPresent`
+`August 2023-Present`
 University of Pennsylvania
 
 - Statistical Analyst
@@ -63,21 +67,21 @@ University of Pennsylvania
     - Provide support for ancillary and ad hoc analyses of ongoing RURAL study
 
 
-`September 2022-April 2023`
+`2022-2023`
 University of Pittsburgh
 
 - Biostatistician
     - Provided statistical support to medical researchers
     - Produced analyses and visualizations to answer questions related to health services and equity in urology
 
-`May 2022-August 2022`
+`2022`
 University of Pittsburgh
 
 - Research Assistant
     - Created a novel implementation of a computational spatial algorithm
     - Presented simulated algorithm evaluation results at ESA-CSEE Joint Meeting 2022
 
-`November 2021-April 2022`
+`2021-2022`
 University of Pittsburgh
 
 - Graduate Data Analyst
@@ -87,6 +91,6 @@ University of Pittsburgh
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2023 -->
 
 
