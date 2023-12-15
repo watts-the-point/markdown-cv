@@ -36,15 +36,7 @@ __University of Pittsburgh, Pittsburgh, PA__
 
 - MS, Biostatistics
     - Watts, A. C. (2023). *Assessing the Effects of Weather on Bike Share Usage in Philadelphia*. University of Pittsburgh.
-
-
-
-
-
-## Awards
-
-
-
+ 
 
 
 ## Publications
