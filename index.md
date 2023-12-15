@@ -1,12 +1,13 @@
 ---
 layout: cv
-title: Alex Watts's CV
+title: Isaac Newtons's CV
 ---
-# Alex Watts
-Biotatistician, Data Analyst, Social Scientist
+# Isaac Newton
+Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="acwatts1995@gmail.com">acwatts1995@gmail.com</a>
+<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
 
@@ -16,34 +17,34 @@ Standing on the shoulders of giants
 
 ### Specialized in
 
-Data visualization and management in R, Observational data, Geographic data, ACS data, SEER data
+Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+
 
 ### Research interests
 
-Social determinants of health, built environment, observational studies, causal inference, behavioral health
+Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`2014-2018`
-__The University of Alabama, Tuscaloosa, AL__
+`1654-1660`
+__The King's School, Grantham.__
 
-- BS, Economics and Mathematics
+`June 1661 - now`
+__Trinity College, Cambridge__
 
-`2021-2023`
-__University of Pittsburgh, Pittsburgh, PA__
+- Sizar
 
-- MS, Biostatistics
+`1667 - death`
+__Trinity College, Cambridge__
 
+- Fellow
 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
 
-Associate, *French Academy of Science*, Paris, France
 
 
 
@@ -51,14 +52,28 @@ Associate, *French Academy of Science*, Paris, France
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
+### Journals
+
+`1669`
+Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+
+`1669`
+Lectiones opticæ.
+
+etc. etc. etc.
+
+### Patents
+
+`2012`
+Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
 ## Occupation
 
-`August 2023-Present`
-University of Pennsylvania
+`1600`
+__Royal Mint__, London
 
-- Statistical Analyst
+- Warden
 - Minted coins
 
 `1600`
